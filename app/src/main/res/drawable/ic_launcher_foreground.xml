@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 作业本页面 -->
+    <path
+        android:fillColor="#F1F2F4"
+        android:pathData="M38,30 h32 a5,5 0 0 1 5,5 v38 a5,5 0 0 1 -5,5 h-32 a5,5 0 0 1 -5,-5 v-38 a5,5 0 0 1 5,-5 z" />
+
+    <!-- 内容行 -->
+    <path
+        android:fillColor="#9BBEDD"
+        android:pathData="M41,40 h18 a1.8,1.8 0 0 1 0,3.6 h-18 a1.8,1.8 0 0 1 0,-3.6 z" />
+    <path
+        android:fillColor="#C3D4E4"
+        android:pathData="M41,49 h22 a1.8,1.8 0 0 1 0,3.6 h-22 a1.8,1.8 0 0 1 0,-3.6 z" />
+
+    <!-- 完成勾 -->
+    <path
+        android:pathData="M46,63 L53,70 L68,53"
+        android:strokeColor="#4DD0A5"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
